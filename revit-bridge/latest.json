@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "url": "https://raw.githubusercontent.com/collection-repos/collection-releases/main/revit-bridge/collection-bridge-revit-0.1.0.zip",
-  "sha256": "c440392725dae72ee529228ec089370d339372908e021df69cf65c72bb95087e",
+  "version": "0.1.1",
+  "url": "https://raw.githubusercontent.com/collection-repos/collection-releases/main/revit-bridge/collection-bridge-revit-0.1.1.zip",
+  "sha256": "6c97403fa63b1db329a2f784046651cb9fda18f06fe56d96c05aa923807da98e",
   "min_revit": 2021,
-  "changelog": "Primeira versão: o Revit recebe modelos (OBJ) e materiais da sua biblioteca do Collection.",
+  "changelog": "O Collection Bridge do Revit passa a ser assinado pela COLLECTION LTDA: o Revit mostra quem o publicou.",
   "published_at": "2026-11-06",
-  "signed": false,
+  "signed": true,
   "unsigned_loaders": {
     "net48": "fe32433a62d435219fc979d8022ad291a69ba9c5d0b6394e051a6816eda2737c",
     "net8": "6b8c63f2f36b38b84ba69abfcf5dab5ca1292d9cc5fe31321eccbd8784ba9c8f"
