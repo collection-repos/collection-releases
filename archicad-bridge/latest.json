@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "min_archicad": 25,
+  "archicad": [
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "packages": {
+    "win": {
+      "url": "https://raw.githubusercontent.com/collection-repos/collection-releases/main/archicad-bridge/collection-bridge-archicad-1.0.0-win.zip",
+      "sha256": "5e583e1f0e053191a079448485c7f2fd6be4d94d013e98684859b9892a59183d",
+      "signed": true
+    },
+    "mac": {
+      "url": "https://raw.githubusercontent.com/collection-repos/collection-releases/main/archicad-bridge/collection-bridge-archicad-1.0.0-mac.zip",
+      "sha256": "92ef86ffe9040290ea96ecf82ca2c408ad43b0df07d5cbbe3d0443739c409a0e",
+      "signed": false
+    }
+  },
+  "changelog": "A primeira versão do Collection Bridge para o Archicad: traz os modelos e os materiais da sua biblioteca no Collection para o projeto aberto, cada um num passo de desfazer \"Collection: …\".",
+  "published_at": "2026-11-06"
+}
